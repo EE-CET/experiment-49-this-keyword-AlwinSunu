@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ThisDemo {
+public class ThisKeywordDemo {
     int value;
 
     void setValue(int value) {
